@@ -1,5 +1,5 @@
 // Kotoulas Emmanouil 9697 emmakoto@ece.auth.gr Parallel Systems Triangle Counting in adjecency matrices
-// gcc MainCode.c mmio.c -O4 -o serial.out
+// gcc SerialCode.c mmio.c -O4 -o serial.out
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
