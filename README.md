@@ -1,6 +1,9 @@
-# Parallel-1
-Tringle Counting - Parallel Implementation  
-Every folder contains it's own files.   
-The excel file containing the graphs is in the openMp folder.  
-To run the benchmarks you have to put the mtx files in the same directory
-sorry for the lack of a makefile. How to compile at the top of each file.
+### Triangle Counting - Parallel Computing 
+
+#### This repo contains the implementation for a triangle counting algorithm.
+
+#### The parallel Implementation is done with Pthreads, OpenMP and OpenCilk.
+
+The excel file contains the results.
+
+To run the benchmarks you have to put the .mtx files in the same directory as the code. 
